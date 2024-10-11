@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "aguadamillas-dbsrv-dev"
+            "value": "kmouchantaf-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "aguadamillas-db-dev"
+            "value": "kmouchantaf-db-dev"
         },
         "appServicePlanName": {
-            "value": "aguadamillas-asp-dev"
+            "value": "kmouchantaf-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "aguadamillas-be-dev"
+            "value": "kmouchantaf-be-dev"
         },
         "appServiceAppName": {
-            "value": "aguadamillas-fe-dev"
+            "value": "kmouchantaf-fe-dev"
         },
         "location": {
             "value": "North Europe"
