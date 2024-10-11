@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "environmentType": {
+            "value": "nonprod"
+        },
+        "postgreSQLServerName": {
+            "value": "kmouchantaf-dbsrv-uat"
+        },
+        "postgreSQLDatabaseName": {
+            "value": "kmouchantaf-db-uat"
+        },
+        "appServicePlanName": {
+            "value": "kmouchantaf-asp-uat"
+        },
+        "appServiceAPIAppName": {
+            "value": "kmouchantaf-be-uat"
+        },
+        "appServiceAppName": {
+            "value": "kmouchantaf-fe-uat"
+        },
+        "location": {
+            "value": "North Europe"
+        }
+    }
+}
